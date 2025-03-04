@@ -1,0 +1,10 @@
+.home{
+    padding: 120px 12px;
+}
+
+.home  h1{
+     margin-bottom: var(--mg-bottom);
+}
+.home  h1{
+    font-size: var(--title-1);
+}

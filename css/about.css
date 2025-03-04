@@ -1,0 +1,27 @@
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1rem;
+}
+.title-about{
+    font-size: var(--title-1);
+}
+.about:nth-child(2){
+    font-size: 1.1rem;
+}
+.about  h2,p{
+    margin-bottom: var(--mg-bottom);
+    
+}
+
+.about-text > ul{
+    list-style-image: url("../img/check-3278.png");
+   margin: 2rem;
+   display: flex;
+   align-items: flex-start;
+   flex-direction: column;
+    
+}
+
